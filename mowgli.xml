@@ -62859,7 +62859,7 @@
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GAIN</id>
-		<default>10741</default>
+		<default>15408</default>
 	</attribute>
 	<attribute>
 		<id>ADC_CHANNEL_GROUND</id>
